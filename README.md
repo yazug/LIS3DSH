@@ -3,11 +3,7 @@ LIS3DSH
 
 LIS3DSH accelerometer Arduino library
 
-Put together by Mike Kirkhart <mkirkhart@navigationsolutions.com>
+Reworked library by Mike Kirkhart <mkirkhart@navigationsolutions.com> based on the L3G Library
 
-Licence
-=======
-
-
-this came from some other contributer's source
+https://github.com/pololu/L3G
 
