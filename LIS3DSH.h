@@ -13,8 +13,8 @@
 
 #define LIS3DSH_OUT_X_L      	0x28
 #define LIS3DSH_OUT_X_H      	0x29
-#define LIS3SDH_OUT_Y_L      	0x2A
-#define LIS3SDH_OUT_Y_H      	0x2B
+#define LIS3DSH_OUT_Y_L      	0x2A
+#define LIS3DSH_OUT_Y_H      	0x2B
 #define LIS3DSH_OUT_Z_L      	0x2C
 #define LIS3DSH_OUT_Z_H      	0x2D
 
